@@ -16,7 +16,7 @@ Capturando fotos
 
 
 
-acesse a pagina do formualário clicando nesse link:
+acesse a pagina do formulário clicando nesse link:
 
 https://registration-form-delta-teal.vercel.app/
 
